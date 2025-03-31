@@ -1,1 +1,1 @@
-# csFormRubai
+# Application on C# for Desktop (Microsoft), without NET Framework.
